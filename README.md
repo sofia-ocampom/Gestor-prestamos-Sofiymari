@@ -1,5 +1,5 @@
-**Gestor-prestamos-Sofiymari💖**
-
+![Imagen portada](https://raw.githubusercontent.com/sofia-ocampom/Gestor-prestamos-Sofiymari/refs/heads/main/img/Portada%20proyecto.jpg)
+#**Gestor-prestamos-Sofiymari💖**
 # *Integrantes* 
 ## **Sofia Ocampo**
 ### Descripcion 
